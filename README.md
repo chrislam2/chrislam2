@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome! How do you feel?
+
+You can start by looking at the awesome repository FTEC4999!
 
 <!--
 **chrislam2/chrislam2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
