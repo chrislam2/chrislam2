@@ -2,7 +2,7 @@
 
 You can start by looking at the awesome repository FTEC4999!
 
-My old account name is AssoStudent. The reason I change the name is that some stupid people think this is a stupid name.
+My old account name is AssoStudent. The reason I changed the name is that some stupid people think this is a stupid name.
 
 <!--
 **chrislam2/chrislam2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
