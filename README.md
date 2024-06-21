@@ -2,6 +2,8 @@
 
 You can start by looking at the awesome repository FTEC4999!
 
+Something just for fun: https://raw.githack.com/chrislam2/SwordArtOnlineWebpage/main/index.html
+
 My old account name is AssoStudent. The reason I changed the name is that some stupid people think this is a stupid name.
 
 <!--
