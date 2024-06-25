@@ -4,7 +4,7 @@ You can start by looking at the awesome repository FTEC4999!
 
 Something just for fun: https://raw.githack.com/chrislam2/SwordArtOnlineWebpage/main/index.html
 
-Then, these are also awesone repositories: <br/>
+Then, these are also some awesome repositories: <br/>
 MNIST-CNN: Project related to CNN Neural Network and U-Net <br/>
 CSCI3320: Machine Learning Algorithms <br/>
 
