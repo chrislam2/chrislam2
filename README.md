@@ -4,9 +4,9 @@ You can start by looking at the awesome repository FTEC4999!
 
 Something just for fun: https://raw.githack.com/chrislam2/SwordArtOnlineWebpage/main/index.html
 
-Then, these are also awesone repositories:
-MNIST-CNN: Project related to CNN Neural Network and U-Net
-CSCI3320: Machine Learning Algorithms
+Then, these are also awesone repositories: <br/>
+MNIST-CNN: Project related to CNN Neural Network and U-Net <br/>
+CSCI3320: Machine Learning Algorithms <br/>
 
 My old account name is AssoStudent. The reason I changed the name is that some stupid people think this is a stupid name.
 
