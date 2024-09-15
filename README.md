@@ -8,8 +8,6 @@ Then, these are also some awesome repositories: <br/>
 MNIST-CNN: Project related to CNN Neural Network and U-Net <br/>
 CSCI3320: Machine Learning Algorithms <br/>
 
-My old account name is AssoStudent. The reason I changed the name is that some stupid people think this is a stupid name.
-
 <!--
 **chrislam2/chrislam2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
