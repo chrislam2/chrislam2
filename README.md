@@ -1,12 +1,7 @@
-## Welcome! How do you feel?
+## Welcome!
+This github serves as some my experiments or projects, and most importantly some useful functions that are helpful in daily routines.
 
-You can start by looking at the awesome repository FTEC4999!
-
-Something just for fun: https://raw.githack.com/chrislam2/SwordArtOnlineWebpage/main/index.html
-
-Then, these are also some awesome repositories: <br/>
-MNIST-CNN: Project related to CNN Neural Network and U-Net <br/>
-CSCI3320: Machine Learning Algorithms <br/>
+If you look carefully, this github account contains useful program that can immediately get to use in operation, I intended not to make them as libraries nor packages, but feel free to get them to use.
 
 <!--
 **chrislam2/chrislam2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
