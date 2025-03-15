@@ -1,7 +1,5 @@
 ## Welcome!
-This github serves as some my experiments or projects, and most importantly some useful functions that are helpful in daily routines.
-
-If you look carefully, this github account contains useful program that can immediately get to use in operation, I intended not to make them as libraries nor packages, but feel free to get them to use.
+This github is a place where I store some of my experiments, projects, and most importantly some useful functions that are helpful in daily routines.
 
 <!--
 **chrislam2/chrislam2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
